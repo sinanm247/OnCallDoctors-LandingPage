@@ -5,43 +5,43 @@ import { IoChevronDown, IoChevronUp } from "react-icons/io5";
 const faqs = [
   {
     id: 1,
-    question: "How fast can a doctor reach me?",
-    answer: "Doctors are usually dispatched within 30–60 minutes, depending on your location."
+    question: "How soon can a doctor be on-site?",
+    answer: "Most visits are completed within 30–60 minutes from confirmation."
   },
   {
     id: 2,
-    question: "What happens during a home visit?",
-    answer: "The doctor reviews symptoms, checks vital signs, performs an examination, and creates a clear treatment plan."
+    question: "What does a doctor on call visit include?",
+    answer: "Clinical assessment, vitals check, examination, diagnosis, and a personalized care plan."
   },
   {
     id: 3,
-    question: "Do doctors come prepared?",
-    answer: "Yes. Our doctors carry essential equipment to manage common medical conditions at home."
+    question: "Are home visits fully equipped?",
+    answer: "Yes. Doctors arrive with medical tools suitable for home-based care."
   },
   {
     id: 4,
-    question: "Is InstaDoc available at night or on weekends?",
-    answer: "Yes. Our Doctor at Home service operates 24/7."
+    question: "Is this service available 24/7?",
+    answer: "Yes. Doctors are available day and night for non-emergency cases."
   },
   {
     id: 5,
-    question: "Which locations do you serve?",
-    answer: "We cover Dubai, Abu Dhabi, Sharjah, and Ajman."
+    question: "Where do you provide home visits?",
+    answer: "Dubai, Abu Dhabi, Sharjah, and Ajman."
   },
   {
     id: 6,
-    question: "How do you maintain safety and hygiene?",
-    answer: "All visits follow strict medical hygiene and infection-control standards."
+    question: "How is patient safety ensured?",
+    answer: "We apply professional hygiene and infection-control protocols during every visit."
   },
   {
     id: 7,
-    question: "Can I speak in my preferred language?",
-    answer: "Yes. Our medical team speaks multiple languages."
+    question: "Do you support different languages?",
+    answer: "Yes. Our doctors and staff are multilingual."
   },
   {
     id: 8,
-    question: "Can extra services be added during the visit?",
-    answer: "Yes. Lab tests, IV therapies, ECG, and other services can be arranged if recommended."
+    question: "Can the doctor arrange further tests or treatments?",
+    answer: "Yes. Additional services like lab tests, ECG, IV medications, or procedures can be arranged if needed."
   }
 ];
 
