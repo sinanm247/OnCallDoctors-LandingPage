@@ -9,38 +9,38 @@ import icon10 from "../../../assets/Icons/icon-10.png";
 const testimonials = [
   {
     id: 1,
-    name: "Adnan Latheef",
+    name: "Nordin Ben Allal",
     avatar: "https://i.pravatar.cc/150?img=47",
     rating: 5,
-    review: "Booking a doctor at home was simple and the response was quick. The doctor was skilled, polite, and attentive. It saved me time and effort, and the treatment was as good as a hospital consultation."
+    review: "I had a very good experience with both Dr. Shoyab & Nurse Rabab. They provided me with medical treatment at my apartment to help against my illness. I want to thank them so much."
   },
   {
     id: 2,
-    name: "Dr. Anjhula Mya Singh Bais",
+    name: "Jessica Ward",
     avatar: "https://i.pravatar.cc/150?img=12",
     rating: 5,
-    review: "Great patient service. On time, knowledgeable, efficient and flexible."
+    review: "I just had a great home service to cure my hangover. Fady was amazing and extremely professional. Arrived within 30 minutes of booking. Very impressive."
   },
   {
     id: 3,
-    name: "May Al-Dabbagh",
+    name: "Vanusha Tengry",
     avatar: "https://i.pravatar.cc/150?img=33",
     rating: 5,
-    review: "Excellent service! Very grateful for the professionalism and thoroughness of nurse Mahira. The IV treatment was punctual and high quality. The team and service deserves five stars!"
+    review: "Dr. Shoayb and Mahira are the best ones ever. They provide the best services and I am very happy. Since my vein is very difficult and I have issues a lot, but Mahira did it easily. Love the service."
   },
   {
     id: 4,
-    name: "Emma Robbins",
+    name: "Hamza Laklalech",
     avatar: "https://i.pravatar.cc/150?img=5",
     rating: 5,
-    review: "Doctor & Nurse arrived after 40 mins of booking. Amazing service. Had flu IV treatment and feeling much better. Would highly recommend."
+    review: "It was a very good experience finding Dr. Shoyab and Majd on my side. They are really polite and gave me peace of mind. I recommend this experience to everyone who wants comfort and expertise. Thanks again."
   },
   {
     id: 5,
-    name: "DharNa Ashar",
+    name: "Kristel Lako",
     avatar: "https://i.pravatar.cc/150?img=68",
     rating: 5,
-    review: "Extremely professional and courteous. Fantastic service, on time. Didn't feel the needle at all. Very happy and will definitely rebook them."
+    review: "Very quick service, very respectful and gentle. Good explanation of everything by Dr. Sadia and Majid."
   }
 ];
 
