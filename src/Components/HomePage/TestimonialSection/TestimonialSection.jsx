@@ -9,38 +9,38 @@ import icon10 from "../../../assets/Icons/icon-10.png";
 const testimonials = [
   {
     id: 1,
-    name: "Nordin Ben Allal",
-    avatar: "https://i.pravatar.cc/150?img=47",
+    name: "Kristel Lako",
+    avatar: "https://i.pravatar.cc/150?img=68",
     rating: 5,
-    review: "I had a very good experience with both Dr. Shoyab & Nurse Rabab. They provided me with medical treatment at my apartment to help against my illness. I want to thank them so much."
+    review: "Very quick service, very respectful and gentle. Good explanation of everything by Dr. Sadia and Majid."
   },
   {
     id: 2,
-    name: "Jessica Ward",
-    avatar: "https://i.pravatar.cc/150?img=12",
+    name: "Hamza Laklalech",
+    avatar: "https://i.pravatar.cc/150?img=5",
     rating: 5,
-    review: "I just had a great home service to cure my hangover. Fady was amazing and extremely professional. Arrived within 30 minutes of booking. Very impressive."
+    review: "It was a very good experience finding Dr. Shoyab and Majd on my side. They are really polite and gave me peace of mind. I recommend this experience to everyone who wants comfort and expertise."
   },
   {
     id: 3,
     name: "Vanusha Tengry",
     avatar: "https://i.pravatar.cc/150?img=33",
     rating: 5,
-    review: "Dr. Shoayb and Mahira are the best ones ever. They provide the best services and I am very happy. Since my vein is very difficult and I have issues a lot, but Mahira did it easily. Love the service."
+    review: "Dr. Shoayb and Mahira are the best ones ever. They provide the best services and I am very happy. Since my vein is very difficult, but Mahira did it easily. Love the service."
   },
   {
     id: 4,
-    name: "Hamza Laklalech",
-    avatar: "https://i.pravatar.cc/150?img=5",
+    name: "Jessica Ward",
+    avatar: "https://i.pravatar.cc/150?img=12",
     rating: 5,
-    review: "It was a very good experience finding Dr. Shoyab and Majd on my side. They are really polite and gave me peace of mind. I recommend this experience to everyone who wants comfort and expertise. Thanks again."
+    review: "I just had a great home service to cure my hangover. Fady was amazing and extremely professional. Arrived within 30 minutes of booking. Very impressive."
   },
   {
     id: 5,
-    name: "Kristel Lako",
-    avatar: "https://i.pravatar.cc/150?img=68",
+    name: "Nordin Ben Allal",
+    avatar: "https://i.pravatar.cc/150?img=47",
     rating: 5,
-    review: "Very quick service, very respectful and gentle. Good explanation of everything by Dr. Sadia and Majid."
+    review: "I had a very good experience with both Dr. Shoyab & Nurse Rabab. They provided me with medical treatment at my apartment to help against my illness. I want to thank them so much."
   }
 ];
 

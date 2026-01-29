@@ -52,6 +52,7 @@ const WhyChooseUsSection = () => {
     <section id="why-choose-us" className="why-choose-us-section section-container">
       <div className="why-choose-us-wrapper">
         <div className="why-choose-us-content">
+          <h1 className="section-title-mobile">Why OnCallDoctors Is the<br/>Trusted Option</h1>
           <div className="hero-image-container">
             <img src={heroImage} alt="City Doctor Hero" className="hero-image" />
           </div>

@@ -270,7 +270,8 @@
 
     .process-wrapper {
       .process-title {
-        font-size: 26px;
+        font-size: 32px;
+        font-weight: 600;
         margin-bottom: 10px;
       }
 
@@ -296,11 +297,11 @@
       }
 
       .step-title {
-        font-size: 18px;
+        font-size: 24px;
       }
 
       .step-description {
-        font-size: 14px;
+        font-size: 16px;
       }
     }
 
@@ -311,7 +312,11 @@
         min-width: 100%;
         width: 100%;
         padding: 12px 24px;
-        font-size: 15px;
+        font-size: 22px;
+
+        .btn-icon {
+          font-size: 30px;
+        }
       }
     }
   }

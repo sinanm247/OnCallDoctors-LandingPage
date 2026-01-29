@@ -7,7 +7,7 @@
   padding: 50px;
 
   .services-wrapper {
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
     text-align: center;
 
@@ -41,7 +41,7 @@
     margin-right: auto;
     justify-content: center;
     align-items: center;
-    max-width: 800px;
+    max-width: 900px;
     width: 100%;
   }
 
@@ -57,7 +57,7 @@
     height: 90px;
     padding: 5px 5px;
     width: 100%;
-    max-width: 400px;
+    max-width: 450px;
 
     &.left-column {
       justify-content: flex-start;
@@ -317,6 +317,14 @@
       gap: 0px;
       justify-content: flex-start;
 
+      &:nth-child(odd) {
+        order: 1;
+      }
+
+      &:nth-child(even) {
+        order: 2;
+      }
+
       &.left-column {
         justify-content: flex-start;
       }
@@ -369,6 +377,7 @@
     .services-wrapper {
       .section-title {
         font-size: 30px;
+        font-weight: 600;
       }
 
       .section-description {
@@ -414,11 +423,11 @@
         gap: 4px;
 
         .service-title {
-          font-size: 18px;
+          font-size: 22px;
         }
 
         .service-description {
-          font-size: 15px;
+          font-size: 16px;
         }
       }
     }
@@ -430,7 +439,12 @@
         min-width: 100%;
         width: 100%;
         padding: 12px 20px;
-        font-size: 15px;
+        font-size: 22px;
+        font-weight: 500;
+
+        .btn-icon {
+          font-size: 30px;
+        }
       }
     }
   }

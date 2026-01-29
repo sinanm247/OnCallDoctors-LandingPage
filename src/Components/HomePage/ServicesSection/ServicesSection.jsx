@@ -20,55 +20,55 @@ const services = [
   },
   {
     id: 2,
-    image: service4,
+    image: service2,
+    title: "Rash & Allergies",
+    description: "Skin reaction diagnosis"
+  },
+  {
+    id: 3,
+    image: service3,
     title: "Cough & Congestion",
     description: "Respiratory symptoms evaluation"
   },
   {
-    id: 3,
-    image: service6,
+    id: 4,
+    image: service4,
+    title: "Kids Fever & Vomiting",
+    description: "Pediatric illness evaluation"
+  },
+  {
+    id: 5,
+    image: service5,
     title: "UTI Symptoms",
     description: "Urine infection diagnosis"
   },
   {
-    id: 4,
+    id: 6,
+    image: service6,
+    title: "Period Pain & PMS",
+    description: "Hormonal pain management"
+  },
+  {
+    id: 7,
     image: service7,
     title: "Headache & Migraine",
     description: "Migraine assessment and care"
   },
   {
-    id: 5,
-    image: service2,
-    title: "Food Poisoning & Diarrhea",
-    description: "Digestive infection management"
-  },
-  {
-    id: 6,
-    image: service9,
-    title: "Rash & Allergies",
-    description: "Skin reaction diagnosis"
-  },
-  {
-    id: 7,
-    image: service5,
-    title: "Kids Fever & Vomiting",
-    description: "Pediatric illness evaluation"
-  },
-  {
     id: 8,
     image: service8,
-    title: "Period Pain & PMS",
-    description: "Hormonal pain management"
-  },
-  {
-    id: 9,
-    image: service10,
     title: "Ear Pain & Wax",
     description: "Ear check and wax care"
   },
   {
+    id: 9,
+    image: service9,
+    title: "Food Poisoning & Diarrhea",
+    description: "Digestive infection management"
+  },
+  {
     id: 10,
-    image: service3,
+    image: service10,
     title: "Nausea & Vomiting",
     description: "Persistent nausea evaluation"
   }
@@ -78,9 +78,9 @@ const ServicesSection = () => {
   return (
     <section id="services" className="services-section">
       <div className="services-wrapper">
-        <h1 className="section-title">Medical Team, Delivered<br/> To Your Doorstep</h1>
+        <h1 className="section-title">Simple Home Care for<br/> Everyday Illnesses</h1>
         <p className="section-description">
-          From diagnosis and lab tests to instant medication—our fully equipped mobile team handles everything at your bedside, so you can start recovering immediately.
+        Professional diagnosis, complete treatment planning, and continuous care at your doorstep. Access lab tests, blood tests, IV therapy, nebulization, and more at home.
         </p>
         
         <div className="services-grid">
